@@ -13,6 +13,7 @@
 - [**The expanding domain**](#the-expanding-domain)
 - [**Photography and modernity**](#photography-and-modernity)
 - [**A new vision**](#a-new-vision)
+- [**Through the lense of culture**](#through-the-lense-of-culture)
 
 # **Introduction**
 
@@ -105,3 +106,13 @@ The sustained world economic and industrial growth of the 1920s ended abruptly i
 In the US, the **Depression** challenged the notion of America as a land of limitless opportunitiy for those willing to roll up their sleeves and work. As hard times were gradually perceived as an enduring, not temporary experience, many photographers relaxed the stiff graphics of Modernist photography and adapted them to interpretations of how people now lived. The clear close-ups of troubled faces, angled pictures of ragged breadlines, and angry contrasts between poverty and wealth were frequently called **documentary photographs**. [*Cultural History of Photography - Mary Warner Marien, 233*]
 
 The outbreak of WW2 in Europe and the entry of the US into the conflict were well recorded by the camera. The work of war photographers was carefully censored. In response, image-makers took to recording the daily life and war experience of soldiers and civilians. [*Cultural History of Photography - Mary Warner Marien, 233*]
+
+# **Through the lense of culture**
+
+While postwar Europe and Asia staggered under the loss of millions of people, coupled with economic devastation, the US, which did not suffer physical damage on its mainland, emerged as the world's leading industrial and military power. By 1947, the relief and unity felt by the Allies after their victory in WW2 had given way to a world polarized by the Cold War. Beginning in 1945, the Soviet Union established its influence among eastern European nations in the territories previously occupied by Nazi Germany. In addition, the Soviets administered eastern Germany.
+
+When the Soviet Union and the eastern European nations in its sphere of influence refused rebuilding funds under the Marshal Plan, suspicion of Soviet long-term expansionist intentions rapidly spread in the West. Fired by the fear that its wartime ally wanted to spread communism througout the world, and that the human misery of the immediate postware period would make such a message attractive, the US redoubled its economic aid to European and some Middle Eastern countries.
+
+WW2 erased any doubt that global forces affect all nations and regions. The word 'globalization', showed up in dictionaries and ordinary parlance during the 1960s.
+
+Like other media of expression, photographic practice was caught up in the cross-currents of postwar upheavals and crises. The 'Family of Man' exhibition at the MoMA expressed a unity among the world's people that went beyond political differences. In the US, images from the assassinations of Robert F. Kennedy and Martin Luther King quickly became part of the nation's collective visual memory. Filmmakers and photogarphers not only recorded, but were part of, the 1968 uprising in France and the Warsaw Pact's invasion of Czechoslovakia. The medium aided the beginnings of what would eventually be called identity politics, when photogarphers chose as topics cultural distinctiveness and idiosyncratic behavior. Similarly, postwar anxieties about spiritual life in an age of material abundance were captured by the lens. In the US, the Civil Rights movement and reactions to the war in Vietnam were photographed, and shown not only in newspapers and magazines, but on television, which quickly became the medium through which average people learned the news. At the same time, photography was adopted by artists who cared less about the medium's historical attempts to join the fine arts and more about its potential to create images whose objectivity accorded with Conceptualism. The distinction between art photogarphers and artists who use photography continued througout the 20th century, as notions of multimedia expressions gained currency.
