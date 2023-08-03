@@ -1,3 +1,18 @@
+- [**Introduction**](#introduction)
+  - [**The problem of understanding the photographs**](#the-problem-of-understanding-the-photographs)
+    - [**Subject in a photograph**](#subject-in-a-photograph)
+    - [**Realism is photography**](#realism-is-photography)
+    - [**A medium based on multiples**](#a-medium-based-on-multiples)
+      - [**Marketing**](#marketing)
+    - [**Historical backgrounds**](#historical-backgrounds)
+    - [**Photographic genres**](#photographic-genres)
+    - [**Photographers' intentions**](#photographers-intentions)
+- [**Photography's double invention**](#photographys-double-invention)
+  - [**First invention**](#first-invention)
+  - [**Second invention**](#second-invention)
+- [**The expanding domain**](#the-expanding-domain)
+- [**Photography and modernity**](#photography-and-modernity)
+
 # **Introduction**
 
 The concept of light writing, which is the basic meaning of the word 'photography', is a starting point for understanding photography. At the same time, it is important to appreciate that photography has never been one thing. In 1839, there were 3 types of photography: Daguerreotype which was a one-of-a-kind image, and two ways of producing photographs on paper invented by Talbot, one of which was called photogenic drawing. These two ways had the potential to be made into _negatives_, from which additional copies could be produced. Throughout its history, photography rapidly changed its technological means, though each type was a variant of light writing. [*Cultural History of Photography - Mary Warner Marien, xiii*]
@@ -30,18 +45,44 @@ The reception of photographic images is shaped by the fact that photography has 
 
 #### **Marketing**
 
-Marketing also plays a role in multiple images created by photography. Caleton Watkins used a special camera to make negatives from which he created Mammoth prints of the American West, usually bought by prosperous collectors as showpieces. Yet he also made smaller, more affordable photographs for tourist albums. **The same image was understood differently in separate contexts.**
+Marketing also plays a role in multiple images created by photography. Caleton Watkins used a special camera to make negatives from which he created Mammoth prints of the American West, usually bought by prosperous collectors as showpieces. Yet he also made smaller, more affordable photographs for tourist albums. **The same image was understood differently in separate contexts.** [*Cultural History of Photography - Mary Warner Marien, xv*]
 
 ### **Historical backgrounds**
 
-A photograph may show what an important event looked like to an observer standing near the camera, but it cannot indicate the historical background. To understand why a photograph of an event looks the way it does, it is necessary to look beyond the frame and to ask how the picture relates to what happened. For instance, in war photography from late in WW2 to the present day, portraits of individual soldiers have been more popular with the public than images of generals and battles. To appreciate that situation, one has to look at **public perception** of modern warfare, and at how prior pictures in all media, especially in **mass media**, have shaped pictures of soldiers. Yet however widespread a photographic approach may seem, it is likely that images also possess a particular local resonance that cannot be generalized.
+A photograph may show what an important event looked like to an observer standing near the camera, but it cannot indicate the historical background. To understand why a photograph of an event looks the way it does, it is necessary to look beyond the frame and to ask how the picture relates to what happened. For instance, in war photography from late in WW2 to the present day, portraits of individual soldiers have been more popular with the public than images of generals and battles. To appreciate that situation, one has to look at **public perception** of modern warfare, and at how prior pictures in all media, especially in **mass media**, have shaped pictures of soldiers. Yet however widespread a photographic approach may seem, it is likely that images also possess a particular local resonance that cannot be generalized. [*Cultural History of Photography - Mary Warner Marien, xv*]
 
 ### **Photographic genres**
 
-Photographic genres have been very porous. Art photography has influenced newspaper imagery and vice versa. Aspects of experimental art photography - for example, the odd and abrupt angles of Russian photography after the Revolution or collages created between WW1 and WW2 - were adapted for advertising and documentary work. Scientific photographs of phenomena not seen by the human eye have been displayed for their aesthetic qualities, not their factual content. In current and historic photographic practice, photographers have blended visual and literary sources to create photofictions. In the recent years, ordinary snapshots have influenced art and photojournalism.
+Photographic genres have been very porous. Art photography has influenced newspaper imagery and vice versa. Aspects of experimental art photography - for example, the odd and abrupt angles of Russian photography after the Revolution or collages created between WW1 and WW2 - were adapted for advertising and documentary work. Scientific photographs of phenomena not seen by the human eye have been displayed for their aesthetic qualities, not their factual content. In current and historic photographic practice, photographers have blended visual and literary sources to create photofictions. In the recent years, ordinary snapshots have influenced art and photojournalism. [*Cultural History of Photography - Mary Warner Marien, xv*]
 
 ### **Photographers' intentions**
 
-Photographers' intentions are an amalgam of visual and topical possibilities. Aesthetic experimentaion and self-expression are not limited to art photography, but encompass all genres, including amateur and casual photography. A photographer's influences are not restricted to the visual arts. Although painting has regularly inflected photographic practice, literature, film, and mass media have also played significant roles in the field. Pinning down an image-maker's influences is as hard as analyzing how any individual comes to do and make certain things. Autobiographies, biographies, and artists' statements are valuable, but a life, like an image, always seems to evade exhaustive description.
+Photographers' intentions are an amalgam of visual and topical possibilities. Aesthetic experimentaion and self-expression are not limited to art photography, but encompass all genres, including amateur and casual photography. A photographer's influences are not restricted to the visual arts. Although painting has regularly inflected photographic practice, literature, film, and mass media have also played significant roles in the field. Pinning down an image-maker's influences is as hard as analyzing how any individual comes to do and make certain things. Autobiographies, biographies, and artists' statements are valuable, but a life, like an image, always seems to evade exhaustive description. [*Cultural History of Photography - Mary Warner Marien, xv*]
 
-**John Berger once said: "The relationship between what we see and what we know is never settled." The meaning of photographs shift over time and in the appreciation of different audiences. Understanding photographs can never be complete.**
+**John Berger once said: "The relationship between what we see and what we know is never settled." The meaning of photographs shift over time and in the appreciation of different audiences. Understanding photographs can never be complete.** [*Cultural History of Photography - Mary Warner Marien, xv*]
+
+# **Photography's double invention**
+
+## **First invention**
+
+The first invention of photography was during a period of largely concealed and scattered technological development, from the turn of the 18th century to 1839.
+
+The invention of photography did not depend directly on the impetus of a particular visual tradition, or even on a demonstrable social need. Instead, the climate of congenial attitudes toward toward material progress, research, and innovation encouraged its conception. Around 1800, Western European countries began to define **government's role** as fostering economic development through the expansion of industry and commerce. **Social progress** was understood to flow from the intellectual freedom of **individuals** seeking to solve scientific problems that would lead to practical applications. Those with the most to gain from this attitude toward change were the _educated classes_, as well as entrepreneurs, manufacturers, and enlightened landlords - people making up a **growing middle class** whose status was based on their **achievements and earnings**. The petite bourgeoisie, or lower middle class, also benefited from the outlook that **linked achievement to ability**.
+
+The primary elements of the photographic process began to come together and were experimented with in an era when practical, commercially feasible applications of scientific experiments were encouraged by **national policy** and **cultural values**. Independant entrepreneurs and business people started to believe that their investments in research might be awarded. Much of the history of early experiments in photography shows cultural attitudes prompting **resourceful individuals** to resolve practical problems and technical puzzles. In 1839, when the medium was disclosed, the industrializing world eagerly began to explore how it might be applied to **portraiture**, **record-keeping**, **political persuasion**, **academic investigation**, and **travel accounts**. Ten years later, the photographic subjects and applications began a swift proliferation that constituted a second invention, based partially on the **inclinations of individual photographers**, but also on the **needs of society**.
+
+## **Second invention**
+
+The second invention of photography was in the decades after its disclosure, when it would be ceaselessly reinvented by the social uses to which it was put and the cultural dialogue surrounding it.
+
+The second invention of photography was based partially on the inclinations of individual photographers, but also on the needs of society. The market for portraits expanded, historical events began to be photographed, science and social science took up the medium, artists and artistically inclined photographers used the camera for personal expression and aesthetic exploration.
+
+# **The expanding domain**
+
+In an 1857 article, **Lady Elizabeth Eastlake**, who marveled on the growth of photography since its disclosure to the world in 1839, wrote "Since then, photography has become a household word and household want; it is used alike by art, sience, by love, business, and justice; it is found in the most sumptuous salon, and in the dingiest attic." Photographic images were displayed in shop windows, and newspapers used photographic sources for their illustrations. At the same time, with the continued spread of photography, the development of new applications, and the **intense commercialization** of the medium in the late 1850s, amazement at its ability to capture appearances declined. As photography became more **commonplace**, the medium's **societal and artistic impact** was more frequently debated.
+
+The rapid commercialization of photography sprang from the interaction of **social needs** and **techincal inventions**. The convenience of the _Collodion_, or wet-plate, and the resulting **availablitiy of low-priced prints** stimulated the market for portraits of family, friends, and public figures. As different technologies speeded up communications, commerce, and travel, the **desire** for portraits and views kept pace. For instance, in the months leading up to the outbreak of the American Civil War in 1861, the market for inexpensive portraits of people in the news grew at an unparalleled rate. Also, war and topical photography began to increase the public's demand for recent **images of important events**. Photographs from the Crimean War, from the Indian Mutiny, and the Americal Civil War were shown in galleries. Views of biblical and exotic places were alse demanded.
+
+At the same time, the growing market for low-priced photographs intensified the contrast between the so-called "cheap johns" who mass produced these, and those who hoped to elevate photography to the status of **fine art**. By the mid-1850s, members of the photographic society in England worried that members who made their living as photographers would degrade the society, and some attepted to pass a rule that would exclude from the society's exhibitions any photograph that had hung in a shop window. Ultimately, **High Art Photogarphy** was brough into being by photographers and critics concerned to link the new medium to the **betterment of individuals**. It put photography in the service of **public morality** by trying to make the medium ennoble and instruct its viewers in proper conduct. The perceived divide between **popular and art photogarphy**, begun in the middle of the 19th century, lasted almost one hundred years.
+
+# **Photography and modernity**
