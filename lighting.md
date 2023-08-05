@@ -1,3 +1,41 @@
+- [**Principles of light**](#principles-of-light)
+- [**How to describe light**](#how-to-describe-light)
+  - [**brightness**](#brightness)
+  - [**color**](#color)
+  - [**contrast**](#contrast)
+- [**How the subject affects lighting**](#how-the-subject-affects-lighting)
+  - [**Transmission (\& refraction)**](#transmission--refraction)
+    - [**Direct and diffuse transmission**](#direct-and-diffuse-transmission)
+  - [**Absorption**](#absorption)
+  - [**Reflection**](#reflection)
+- [**Reflection and the family of angles**](#reflection-and-the-family-of-angles)
+  - [**Types of reflection**](#types-of-reflection)
+    - [**Diffuse reflection**](#diffuse-reflection)
+    - [**Direct reflection**](#direct-reflection)
+      - [**The family of angles**](#the-family-of-angles)
+      - [**Polarized reflection**](#polarized-reflection)
+        - [**_Polarized reflection or ordinary direct reflection?_**](#polarized-reflection-or-ordinary-direct-reflection)
+- [**Surface appearances**](#surface-appearances)
+  - [**Photographer as editor**](#photographer-as-editor)
+  - [**Working with diffuse reflection**](#working-with-diffuse-reflection)
+    - [**Angle of light**](#angle-of-light)
+    - [**Distance of light**](#distance-of-light)
+  - [**Working with direct reflection**](#working-with-direct-reflection)
+- [**Portrait lighting**](#portrait-lighting)
+  - [**Different types of lights**](#different-types-of-lights)
+    - [**Key light**](#key-light)
+    - [**Hair light**](#hair-light)
+    - [**Fill light**](#fill-light)
+    - [**Side light**](#side-light)
+    - [**Kick light**](#kick-light)
+    - [**Rim light**](#rim-light)
+    - [**Catch light**](#catch-light)
+  - [**Basic light settings**](#basic-light-settings)
+    - [**Rambrandt**](#rambrandt)
+    - [**Split light**](#split-light)
+    - [**Butterfly or Paramount light**](#butterfly-or-paramount-light)
+    - [**Loop light**](#loop-light)
+
 # **Principles of light**
 
 **1. Size of the light source:** determines what types of shadows are produced, and may affect the type of reflection.
@@ -164,3 +202,65 @@ Moving the light away from the subject makes the subject receive even illuminati
 First, we must see where the family of angles might be. Then as for the light source, it must be large enough to completely fill the family of angles.
 
 TODO complete this note
+
+# **Portrait lighting**
+
+Let's first go over different types of lighting in portrait photography.
+
+## **Different types of lights**
+
+### **Key light**
+
+This is the most important light in the picture and it is also the most visibly present light in the image. The key light is generally the brightest and tends to be quite soft in most portrait situations.
+
+### **Hair light**
+
+Hair light brings out edge detail in the hair and highlight its shape. This is usually used when you want to separate your subject from the background. You may want this light very bright and visible or barely noticeable at all. The latter looks a lot more natural.
+
+### **Fill light**
+
+Fill light is used to decrease contrast on the subject in order to bring out shadow details. Fill is often a large light source placed behind the camera and you want the fill light to be as flat as possible as it is meant to slightly brighten the whole image. This light should not cast any shadows at all.
+
+### **Side light**
+
+It reveals only one side of the subject's face. It is used for [split](#split-light) setups. A very popular tool for side-lighting is a strip softbox. It is extremely important to use fill light with the side light.
+
+### **Kick light**
+
+Many people confuse a kick light with a hair light. Kick light is another way of highlighting the face, but the difference is that while a hair light will light up only hair, a kicker can do that, as well as light up a side of the subject's face. Kicker light is a key light.
+
+### **Rim light**
+
+This light is used to highlight the shape of the subject as well as provide additional separation from the background. They are commonly strip boxes because of the thin and tall light pattern that they form. Rim lights are very common when photographing athletes and fitness professionals as they will accentuate the subject's hard lines and body shape.
+
+### **Catch light**
+
+A catchlight is the little white spot often seen popping up inside the photo subject's eye. This is a very important light in portrait photography.
+
+## **Basic light settings**
+
+Here is a brief introduction to very basic portrait light settings that can be considered as fundamentals for other lightings.
+
+### **Rambrandt**
+
+This setting involves one main light diffuzed with softbox lighting the face of the subject at nearly `45` degree on the horizontal plane while its positioned about `50cm` above the subject's head. This will create the Rambrandt triangle on the subject's face.
+
+As an addition to this setting, a reflector can be used on the opposite side of the main light to fill in the deep shadows created on the other side of the subject's face. Placing the reflector at closer distances from the subject will give us a more flat Rambrandt. We can even move the reflector a litte to the back of the subject in order create some **hair light**.
+
+### **Split light**
+
+This lighting splits the face right down the center. To implement this setting we have the main light from the Rambrandt setting, but we move it exactly to the side of the subject, making it light the subject at `90` degree.
+
+Again a reflector can be used to flatten the hard shadows.
+
+> Remember that this setting is used when the subject's body is turned to the light, but the head is turned back to the camera. If the subject turns their body away from the light, this will give us the **Broad light**. It is called Broad because now the camera is looking at the side of the face which is lit, while in Split light the camera looks at the side of the face which is in shadow.
+
+### **Butterfly or Paramount light**
+
+In this setting, the main light is positioned right next to the camera, at the same hight where it was used for Rambrandt or Split light. The light's horizontal distance from the subject would be about 2 meters. This setting gives us a little shadow under the nose, clear shadows on each side of the cheek, and also a shadow under the chin on the neck.
+
+With a Butterfly light, a reflector is usually placed under the face to fill up the shadow created by the nose and the shadow on the neck. We could also use another softbox under the face.
+
+### **Loop light**
+
+It is called a loop because it does not close the loop on to the chin to become a Rambrandt. Basically, we get more light on the dark side of the face in comparison to the Rambrandt. In Rambrandt we only had a small triangle of light on the dark side, while here we clearly have more light and the eye on the dark side receives a noticable amount of light.
