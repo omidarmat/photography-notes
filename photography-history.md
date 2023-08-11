@@ -17,6 +17,9 @@
     - [**The challenge for art photography**](#the-challenge-for-art-photography)
       - [**Naturalistic photography**](#naturalistic-photography)
     - [**Pictorialism**](#pictorialism)
+  - [**Modern life**](#modern-life)
+    - [**The modern city**](#the-modern-city)
+    - [**Social reform photography**](#social-reform-photography)
 - [**A new vision**](#a-new-vision)
 - [**Through the lense of culture**](#through-the-lense-of-culture)
 - [**Convergences**](#convergences)
@@ -153,13 +156,42 @@ To Emerson's annoyance, another British photographer, George Davison, expanded u
 
 Emerson's renunciation of naturalistic photography did not stop him making the pictures or criticizing the growing popularity of the **Gum-bichromate process**, which made it possible to add pigment and texture to a print. Other figures who experienced with pictorialist photography:
 
-- Robert Demachy
+- Robert Demachy: promoted the gum bichromate technique in influential articles and worked extensively in it.
 - Heinrich Kuhn: like Emerson, he was a scientist and a doctor, but his training did not lead him to a scientifically based theory of art.
 - Frank Eugene: sometimes combined photography and print-making.
 
 Like Art Nouveau artists in Europe and America, the Pictorialists raised aesthetic experience to a paramount life goal. From their point of view, what was needed was aesthetic reform of the whole society, and they hoped to start the process by banishing the harsh and unsightly realm of industry from their work. The Pictorialist movement was string in Russia, where Sergei Lobovikov adopted it to render traditional life, not as ethnographic data, but as an expression of nostalgia for nature and simpler times. He worked with gum bichromate and made platinum plates, and he also favored the **Bromoil process** which allowed him to apply color to the print with a brush. In Japan the Pictorialist look dominated portraits, street scenes, landscapes, and ethnographic photographic until the mid-1930s, when it finally gave way to the pressures of Modernism and abstraction.
 
-> The principle that one should beautify the experience of everyday lif, was promoted by the Arts and Crafts movement and the followers of Art Nouveau.
+> The principle that one should beautify the experience of everyday life, was promoted by the Arts and Crafts movement and the followers of Art Nouveau.
+
+## **Modern life**
+
+In the last decades of the 19th century, photography was no longer associated with new and sudden social shifts. Instead, the modern world was denoted by a quickening of technological and scientific progress, the increased consequence of urban life, and patterns of **life and labor** that involved **mass manufacturing**. The notion of change infiltrated modern life, and encouraged **social reform movements** in which photographs played a major role. Photographs became part of statistical reports and emotional pleas for urban improvement. They helped to produce **visual archives**, not only of substandard living conditions, but also of criminals. Photography was not simply used to verify what could be seen, but also to prove what the eye could not see. In Europe and the US, photographs recorded physical movements too swift and subtle for the human eye. WW1, which ended the era, was the first industrialized war. Professional, amateur, and soldier photographers used their cameras to record the boredom and horror of the trenches.
+
+### **The modern city**
+
+Pictorial photographers occasionally photographed the urban environment, modifying it with a mantle of color or cloude. Photographers independant of Pictorialism also rendered the city and its inhabitants. British photographer Paul Martin recorded street life and seaside entertainment in a casual style associated with the snapshot. E. Alice Austen photographed the social life of her genteel friends, but also ventured into Manhattan to photograph immigrant life. Neither photographer's work was ever aimed at bringing about social improvements.
+
+New York City, especially after the opening of Ellis Island in 1892, was the port through which most of the immigrants entering the US passed. In 1900, over 35% of the population in big cities such as New York and Chicago was foreign born. Immigrant neighborhoods became the subject of much public curiosity and concern. Photographers in expanding American cities provided public with an array of images of the poor. Underwood and Underwood issued boxed sets of stereographs depicting immigrants and urban life. Some pictures reinforced ethnic stereotypes and cliches about urban workers and the poor. In his book _Street Types of Great American Cities_ (1982), Sigmund Krausz paired popular poetry and prose with his photographs.
+
+The rural poor were not major photographic subjects, outside the idyllic scenes produced by Pictorialist photographers.
+
+### **Social reform photography**
+
+From the beginning, British suffragists used photography to record the lives of poor women and children, arguing that giving women the vote would draw more attention to the issue of poverty. After a slow start, reform organizations and settelment houses - privately run charities that did social work among the poor - began using photography to promote their work. As social work moved from voluntary occupation to full-time professional employment, photogarphs were increasingly used in conjuction with other data. As the public became more familiar with photographs of the poor, there were two unexpected consequences:
+
+1. Repeated images of people in squalid conditions bolstered stereotypes of the poor as inferior;
+2. What is now called **compassion fatigue** set in, as happened toward the end of the American Civil War when, as photographic coverage increased, public response declined.
+
+Photographs of the poor were still novel and engaging when Jacob Riis produced his book _How the Other Half Lives_ (1980) which contained 15 half-tone images, and 43 drawings based on photographs. Like many reformers, Riis believed that individuals were formed by their environment. For him the crowded, unsanitary tenements were tha cause of crime and moral decay. By contemporary standards, Riis was conservative in his suggestions for reform: he did not call for government intervention, but hoped that the wealthy would consider tenement construction as a work of charity and that private investors would take less profit when building tenements, in order to provide adequate lodgings.
+
+Like many social observers, Riis implicitely divided the poor into two categories: deserving and undeserving. Women and small children often fitted the first category, with unemployed and criminally inclined males in the second. Oddly enough, Riis's photographs have come to stand for late 19th and early 20th century social reform. Nevertheless, the era embraced many modes of reform photography. Also often overlooked are the photographs made by American novelist and avid amateur photographer Jack London for _The People of the Abyss_ (1903), his account of the slums of London's East End. He used photographs, mostly his own, to depict the effects of industrialization on the poor, and to conclude that criminal mismanagement of society was to blame for poverty.
+
+in 1909, social photographer Lewis Hine suggested to the National Conference of Charities that workers be encouraged to photograph their own situations. The idea of worker photography later briefly took hold in Europe, between the WWs. The turn of the 20th century was an active time for the formation of labor unions in industrialized nations, but there was no systematic network to distribute photographs recording labor grievances, or offering union interpretations of the many labor actions and strikes that took place. As historian Larry Peterson observed: "Worker's organizations adopted photography more slowly and haltingly than corporations." He contended that even such militant new unions as the International Workers of the World failed to adopt the mass media publicity techniques associated with corporations. Instead, labor groups promoted craft skills and art historical knowledge because they were thought to stimulate the mind and the feelings. There was no extensive photographic protest showing workers trying to keep pace with speeded-up assembly lines, or learning to perform repetitive actions more quickly. More often than not, it was newspaper photographs of labor confrontations, not photographs taken by the unions, that galvanized worker opinions.
+
+Industry, by contrast, used photography to present a positive vision of the comnpany to the workers. _The Story of the Pullman Car_ (1917) contained 34 photographs describing the work of the company, and the company newspaper, the _Pullman Car Works Standard_ (1916-19) presented the company as Pullman's "Big Family" to the public and employees. Companies used their financial resources and ready access to the factory floor to make photographs that serverd their interests; images of admirable working conditions and engineering feats were encouraged in the press.
+
+The paternalistic attitude toward workers that developed in some factories was exeplified in the Ford Motor Company's booklet _Helpful Hints and Advice to Employes_ (1915), which contained photographs showing proper living conditions for a Ford worker. The company's sociological department took photographs of ideal kitchens and bathrooms as examples to workers, and hired about 100 inspectors to check employees' homes. More benignly, the General Electric Company began publishing a magazine called _Work News_, which emphasized the notion of community through photographs of workers and company sports teams.
 
 # **A new vision**
 
